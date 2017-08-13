@@ -6,11 +6,11 @@ public class MongoConstants {
 
     public static final String MONGO_PASSWORD = "boja";
 
-    public static final String MONGO_DATABASE = "heroku_2lctv2kc";
+    public static final String MONGO_DATABASE = "heroku_9126w15d";
 
-    public static final String MONGO_SERVER = "ds037005.mlab.com";
+    public static final String MONGO_SERVER = "ds145183.mlab.com";
 
-    public static final int MONGO_PORT = 37005;
+    public static final int MONGO_PORT = 45183;
 
     public static final String USERS = "Users";
 
